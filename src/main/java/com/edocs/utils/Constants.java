@@ -31,11 +31,7 @@ public class Constants {
 
     public static long totalStorage = 5242880; // 5GB in KB
 
-    public static String accessKey = "AKIAI5K3MOD65UU3MMHQ";
-
-    public static String secretKey = "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";
-
-    public static String bucketName = "emdu.ak";
+    
 
     public static final int EVENT_LOG_TYPE_DOCUMENT = 5;
 
